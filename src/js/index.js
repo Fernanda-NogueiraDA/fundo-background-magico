@@ -31,7 +31,7 @@ document.addEventListener("DOMContentLoaded", function () {
 
 		
 		try {
-			const response = await fetch("https://robertodias123.app.n8n.cloud/webhook/gerador-fundo", {
+			const response = await fetch("https://n8n.srv830193.hstgr.cloud/webhook/4096b767-f3fb-4244-bb3c-2df7994c2262", {
 				method: "POST",
 				headers: { "Content-Type": "application/json" },
 				body: JSON.stringify({ description }),
